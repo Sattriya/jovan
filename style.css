@@ -1,13 +1,12 @@
-
 body {
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(to bottom, #04962b, #7ceba8, #dfe6e9);
+  background: linear-gradient(to bottom, #2294e0, #1749ee, #dfe6e9);
   transition: background 0.5s ease-in-out;
 }
 
 
 .navbar {
-  background-color: #10603d;
+  background-color: #04049e;
 }
 
 .jumbotron {
@@ -66,7 +65,7 @@ section h2 {
 }
 
 footer {
-  background-color: #31755f;
+  background-color: #27308e;
   padding: 1rem 0 0.5rem 0;
   margin-top: 4rem;
   border-top: 3px solid #fff;
